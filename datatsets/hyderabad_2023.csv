@@ -1,19 +1,3 @@
--BEGIN HEADER-,,,,,,,,,,
-NASA/POWER Source Native Resolution Daily Data ,,,,,,,,,,
-Dates (month/day/year): 01/01/2023 through 12/31/2023 in LST,,,,,,,,,,
-Location: latitude  17.3617   longitude 78.4752 ,,,,,,,,,,
-elevation from MERRA-2: Average for 0.5 x 0.625 degree lat/lon region = 494.59 meters,,,,,,,,,,
-The value for missing source data that cannot be computed or is outside of the sources availability range: -999 ,,,,,,,,,,
-parameter(s): ,,,,,,,,,,
-T2M             MERRA-2 Temperature at 2 Meters (C) ,,,,,,,,,,
-RH2M            MERRA-2 Relative Humidity at 2 Meters (%) ,,,,,,,,,,
-PRECTOTCORR     MERRA-2 Precipitation Corrected (mm/day) ,,,,,,,,,,
-WS10M_MAX       MERRA-2 Wind Speed at 10 Meters Maximum (m/s) ,,,,,,,,,,
-WS10M_MIN       MERRA-2 Wind Speed at 10 Meters Minimum (m/s) ,,,,,,,,,,
-TS              MERRA-2 Earth Skin Temperature (C) ,,,,,,,,,,
-T2M_MAX         MERRA-2 Temperature at 2 Meters Maximum (C) ,,,,,,,,,,
-T2M_MIN         MERRA-2 Temperature at 2 Meters Minimum (C) ,,,,,,,,,,
--END HEADER-,,,,,,,,,,
 YEAR,MO,DY,T2M,RH2M,PRECTOTCORR,WS10M_MAX,WS10M_MIN,TS,T2M_MAX,T2M_MIN
 2023,1,1,22.65,69.13,0,2.77,0.39,23.31,30.11,16.93
 2023,1,2,22.19,74.37,0,3.32,1.22,23.02,28.71,16.94
