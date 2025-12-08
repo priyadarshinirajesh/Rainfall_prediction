@@ -1,0 +1,7 @@
+create a conda environmnet:
+conda create -n rainfall_timesnet python=3.10 -y
+
+install all the required dependencies :
+pip install -r requirements.txt
+
+clone this repo : git clone https://github.com/lichen0620/TimesNet.git
